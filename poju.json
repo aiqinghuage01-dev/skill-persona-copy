@@ -1,0 +1,21 @@
+{
+  "show_on_site": true,
+  "runtime": "local",
+  "stage": 3,
+  "role": "老板",
+  "avatar": {
+    "style": "notionists",
+    "seed": "boss-ceo-charisma"
+  },
+  "capabilities": [
+    "file_write"
+  ],
+  "clients": [
+    "claude-code",
+    "opencode",
+    "workbuddy",
+    "openclaw",
+    "claude-desktop"
+  ],
+  "description_short": "老板第一人称视角人设文案，13行业模板"
+}
